@@ -1,0 +1,7 @@
+.special_modal .modal-content {
+  background-color: rgba(2, 0, 36, 0.8);
+  border-color: rgb(86, 101, 115);
+  border-radius: 15px;
+  color: #fff;
+  box-shadow: 0px 0px 33px 9px rgb(50, 86, 184);
+}
